@@ -1,5 +1,6 @@
 # Endpoint Management using Microsoft Tools
 
+![Microsoft Intune and Management](https://github.com/bqazi/endpoint_management/blob/main/endpoint.jpg)
 ### Part 1
 1. Practice Lab 0101: Managing Identities in Entra ID
 2. Practice Lab 0102: Synchronizing Identities by using Microsoft Entra Connect
@@ -36,3 +37,7 @@
 ### Part 8
 20. Practice Lab 0801: Deploying Windows with Autopilot
 21. Practice Lab 0802: Refreshing Windows with Autopilot Reset and Self-Deploying mode 
+
+
+
+## Licensing
